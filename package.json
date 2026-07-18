@@ -1,0 +1,16 @@
+{
+  "name": "specsentry",
+  "version": "1.0.0",
+  "description": "SpecSentry — contract risk scanner for construction subcontractors.",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
